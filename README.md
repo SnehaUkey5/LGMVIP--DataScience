@@ -5,6 +5,8 @@ Beginner Level Task:
 
 Task 1: IRIS flower classification ML Project
 
+Task 2 Stock Market Prediction and Forecasting using stacked LSTM
+
 Task 4: Image to Pencil Sketch using Python
 
 Intermediate Level:
